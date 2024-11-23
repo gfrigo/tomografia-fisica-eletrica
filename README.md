@@ -5,7 +5,7 @@
 `Professores:` Jorge e Ricardo Dalke
 
 `Alunos:` 
-- Alice Vitoria Boschtti
+- Alice Vitoria Boschetti
 - Gabriel Frigo Sena Silva
 - Giovanna Boschetti Fernandes
 - Juan Carlos Hernandez
