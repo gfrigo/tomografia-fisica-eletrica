@@ -53,7 +53,7 @@ A tomografia é um método de imagem utilizado para reconstruir estruturas tridi
   - Corta os limites em torno do feixe de luz para destacar a região relevante.
 - **Saída**: Imagens tratadas armazenadas em `./images_transformed`.
 
-![Imagem tratada](images/transform.png)
+<img src="images/transform.png" alt="Imagem tratada" width="600"/>
 
 ### 3. **`sinogram.py`**
 - **Função**: Gera sinogramas a partir das imagens processadas.
