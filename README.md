@@ -42,6 +42,9 @@ A tomografia é um método de imagem utilizado para reconstruir estruturas tridi
   - Gera sinogramas organizados.
   - Aplica a Transformada de Radon.
   - Gera um gráfico 3D das imagens processadas.
+ 
+  ![Imagem bruta](images/raw_image.jpg)
+
 
 ### 2. **`transform.py`**
 - **Função**: Realiza o pré-processamento das imagens originais.
