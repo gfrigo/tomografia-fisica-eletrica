@@ -24,7 +24,6 @@
 
 **Observação**: Por limites da quantidade de arquivos do Github não foi colocado a pasta principal com 2999 fotos tiradas para o procedimento da tomografia, para baixá-las, acesse o link:
 https://drive.google.com/file/d/1WLI-9Hl5eoMzAM7jXUApzqQesvEKv-oW/view?usp=sharing
-
 Após baixar as imagens, coloque-as em uma pasta chamada "raw_images" (é importante que seja este nome).
 ---
 
