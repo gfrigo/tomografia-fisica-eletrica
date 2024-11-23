@@ -22,6 +22,9 @@
    - [chart.py](#5-chartpy)
 3. [Como instalar as dependências?](#como-instalar-as-dependências)
 
+**Observação**: Por limites de imagem do Github não foi colocado a pasta principal com 2999 fotos tiradas para o procedimento da tomografia, para baixá-las, acecesse o link:
+https://drive.google.com/file/d/1WLI-9Hl5eoMzAM7jXUApzqQesvEKv-oW/view?usp=sharing
+
 ---
 
 ## O que é Tomografia?
