@@ -46,5 +46,5 @@ class ChartTomography:
     plt.show()
 
 # Test
-chart_tomography = ChartTomography()
-chart_tomography.plot_radon_stack_3d()
+# chart_tomography = ChartTomography()
+# chart_tomography.plot_radon_stack_3d()
