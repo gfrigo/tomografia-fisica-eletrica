@@ -81,7 +81,7 @@ A tomografia é um método de imagem utilizado para reconstruir estruturas tridi
   - Gera contornos em cada camada, permitindo a exploração visual.
 - **Saída**: Gráfico interativo exibido no matplotlib.
 
-![Sinograma](images/final.PNG)
+![Resultado final](images/final.png)
 
 ---
 
