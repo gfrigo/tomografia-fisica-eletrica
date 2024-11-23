@@ -1,7 +1,9 @@
 # **Tomografia com Transformada de Radon**
 
 `Matéria:` Física Elétrica
+
 `Professores: ` Jorge e Ricardo Dalke
+
 `Alunos:` 
 - Alice Vitoria Boschtti
 - Gabriel Frigo Sena Silva
