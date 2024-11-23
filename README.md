@@ -10,7 +10,22 @@
 - Giovanna Boschetti Fernandes
 - Juan Carlos Hernandez
 
+---
+
+## Índice
+1. [O que é Tomografia?](#o-que-é-tomografia)
+2. [Estrutura do Projeto](#estrutura-do-projeto)  
+   - [run.py](#1-runpy)
+   - [transform.py](#2-transformpy)
+   - [sinogram.py](#3-sinogrampy)
+   - [radon.py](#4-radonpy)
+   - [chart.py](#5-chartpy)
+3. [Como instalar as dependências?](#como-instalar-as-dependências)
+
+---
+
 ## O que é Tomografia?
+
 A tomografia é um método de imagem utilizado para reconstruir estruturas tridimensionais a partir de projeções bidimensionais, amplamente usada em áreas como medicina, engenharia e geofísica. A **Transformada de Radon** é uma ferramenta matemática essencial neste processo, pois converte projeções (sinogramas) em informações sobre a estrutura interna do objeto, permitindo a reconstrução volumétrica.
 
 ---
@@ -59,7 +74,9 @@ A tomografia é um método de imagem utilizado para reconstruir estruturas tridi
 
 ## Como instalar as dependências?
 
-1. Certifique-se de que o Python 3.8+ está instalado.
-2. Instale as bibliotecas necessárias executando o seguinte comando:
+1. Certifique-se de que o Python 3.8 ou superior está instalado no seu sistema.
+2. Recomendamos o uso de um ambiente virtual:
    ```bash
-   pip install -r requirements.txt
+   python -m venv venv
+   source venv/bin/activate  # Linux/Mac
+   .\venv\Scripts\activate   # Windows
