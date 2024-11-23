@@ -2,7 +2,7 @@
 
 `Matéria:` Física Elétrica
 
-`Professores: ` Jorge e Ricardo Dalke
+`Professores:` Jorge e Ricardo Dalke
 
 `Alunos:` 
 - Alice Vitoria Boschtti
