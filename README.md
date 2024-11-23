@@ -1,5 +1,13 @@
 # **Tomografia com Transformada de Radon**
 
+`Matéria:` Física Elétrica
+`Professores: ` Jorge e Ricardo Dalke
+`Alunos:` 
+- Alice Vitoria Boschtti
+- Gabriel Frigo Sena Silva
+- Giovanna Boschetti Fernandes
+- Juan Carlos Hernandez
+
 ## O que é Tomografia?
 A tomografia é um método de imagem utilizado para reconstruir estruturas tridimensionais a partir de projeções bidimensionais, amplamente usada em áreas como medicina, engenharia e geofísica. A **Transformada de Radon** é uma ferramenta matemática essencial neste processo, pois converte projeções (sinogramas) em informações sobre a estrutura interna do objeto, permitindo a reconstrução volumétrica.
 
